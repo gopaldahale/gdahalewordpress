@@ -549,16 +549,20 @@
 	/* ]]> */
 </script>
 <script type="text/javascript"
+<<<<<<< HEAD
 	src="./wp-content/themes/sloppy/Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/scripts.js.download"></script>
+=======
+	src="wp-content/themes/sloppy/Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/scripts.js.download"></script>
+>>>>>>> 9eba6b3095e2cb1c71a7cbb4372cfe145644f8ad
 <script type="text/javascript"
-	src="./Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/wp-embed.min.js.download"></script>
+	src="./wp-content/themes/sloppy/Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/wp-embed.min.js.download"></script>
 <script type="text/javascript"
-	src="./Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/webfontloader.js.download"></script>
+	src="./wp-content/themes/sloppy/Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/webfontloader.js.download"></script>
 <script type="text/javascript">
 	WebFont.load({ google: { families: ['Noto Serif:700i,700:cyrillic,cyrillic-ext,devanagari,greek,greek-ext,khmer,latin,latin-ext,vietnamese,hebrew,arabic,bengali,gujarati,tamil,telugu,thai', 'Montserrat:500,700:cyrillic,cyrillic-ext,devanagari,greek,greek-ext,khmer,latin,latin-ext,vietnamese,hebrew,arabic,bengali,gujarati,tamil,telugu,thai', 'Noto Sans:400:cyrillic,cyrillic-ext,devanagari,greek,greek-ext,khmer,latin,latin-ext,vietnamese,hebrew,arabic,bengali,gujarati,tamil,telugu,thai'] } });
 </script>
 <script type="text/javascript"
-	src="./Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/js_composer_front.min.js.download"></script>
+	src="./wp-content/themes/sloppy/Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/js_composer_front.min.js.download"></script>
 <script type="text/javascript">
 	/* <![CDATA[ */
 	var mc4wp_forms_config = [];

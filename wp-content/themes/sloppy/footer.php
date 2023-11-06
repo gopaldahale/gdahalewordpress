@@ -549,7 +549,7 @@
 	/* ]]> */
 </script>
 <script type="text/javascript"
-	src="./Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/scripts.js.download"></script>
+	src="./wp-content/themes/sloppy/Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/scripts.js.download"></script>
 <script type="text/javascript"
 	src="./Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/wp-embed.min.js.download"></script>
 <script type="text/javascript"

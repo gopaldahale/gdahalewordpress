@@ -70,7 +70,7 @@
 		type="text/css" media="all">
 	<link rel="stylesheet" id="codeless-theme-style-css" href="https://github.com/gopaldahale/gdahalewordpress/wp-content/themes/sloppy/Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/theme.css"
 		type="text/css" media="all">
-	<link rel="stylesheet" id="codeless-style-css" href="https://github.com/gopaldahale/gdahalewordpress/wp-content/themes/sloppy/style666.css"
+	<link rel="stylesheet" id="codeless-style-css" href="<?php bloginfo('template_directory'); ?>/style666.css"
 		type="text/css" media="all">
 	<link rel="stylesheet" id="owl-carousel-css"
 		href="<?php bloginfo('template_directory'); ?>/Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/owl.carousel.min.css"

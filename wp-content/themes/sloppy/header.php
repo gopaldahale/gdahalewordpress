@@ -69,7 +69,7 @@
 		href="<?php bloginfo('template_directory'); ?>/Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/bootstrap.css"
 		type="text/css" media="all">
 	<link rel="stylesheet" id="codeless-theme-style-css"
-		href="<?php bloginfo('template_directory'); ?>/Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/theme.css"
+		href="Xome 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/theme.css"
 		type="text/css" media="all">
 	<link rel="stylesheet" id="codeless-style-css" href="<?php bloginfo('template_directory'); ?>/style.css"
 		type="text/css" media="all">

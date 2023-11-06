@@ -68,12 +68,7 @@
 	<link rel="stylesheet" id="bootstrap-css"
 		href="<?php bloginfo('template_directory'); ?>/Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/bootstrap.css"
 		type="text/css" media="all">
-	<link rel="stylesheet" id="codeless-theme-style-css"
-<<<<<<< HEAD
-		href="Xome 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/theme.css"
-=======
-		href="PHPGOP 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/theme.css"
->>>>>>> 03234077df31200b7d1ab366bdb94462b58f0b52
+	<link rel="stylesheet" id="codeless-theme-style-css" href="PHPGOP 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/theme.css"
 		type="text/css" media="all">
 	<link rel="stylesheet" id="codeless-style-css" href="<?php bloginfo('template_directory'); ?>/style.css"
 		type="text/css" media="all">

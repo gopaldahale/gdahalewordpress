@@ -68,7 +68,7 @@
 	<link rel="stylesheet" id="bootstrap-css"
 		href="<?php bloginfo('template_directory'); ?>/Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/bootstrap.css"
 		type="text/css" media="all">
-	<link rel="stylesheet" id="codeless-theme-style-css" href="PHPGOP 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/theme.css"
+	<link rel="stylesheet" id="codeless-theme-style-css" href="https://github.com/gopaldahale/gdahalewordpress/tree/gh-pages/wp-content/themes/sloppy/Home 9 – Thype – Personal Blog &amp; Magazine WordPress Theme_files/myscriptfolder/theme.css"
 		type="text/css" media="all">
 	<link rel="stylesheet" id="codeless-style-css" href="<?php bloginfo('template_directory'); ?>/style7.css"
 		type="text/css" media="all">
